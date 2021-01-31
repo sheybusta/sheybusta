@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="images/1.jpg" width="300" >
+<img src="images/1.jpg" >
 
 My name is **Sheyla Bustamante**, Peruvian living in Belgium. I'm starting a new professional path into coding. Happy to join [HackYourFuture Belgium](https://www.hackyourfuture.net) program. 
 
