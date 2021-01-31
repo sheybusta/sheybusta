@@ -4,7 +4,7 @@
 
 My name is **Sheyla Bustamante**, Peruvian living in Belgium. I'm starting a new professional path into coding. Happy to join [HackYourFuture Belgium](https://www.hackyourfuture.net) program. 
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheybusta)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning: GitHub,VSCode,HTML,CSS... 
