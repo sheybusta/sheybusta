@@ -2,7 +2,7 @@
 
 <img src="images/1.jpg" width="300" >
 
-My name is **Sheyla Bustamante**, Peruvian living in Belgium. I'm starting a new professional path into coding. Happy to join [HackYourFuture Belgium] (https://hackyourfuture.be/) program. 
+My name is **Sheyla Bustamante**, Peruvian living in Belgium. I'm starting a new professional path into coding. Happy to join [HackYourFuture Belgium](https://www.hackyourfuture.net) program. 
 
 
 
@@ -11,7 +11,7 @@ My name is **Sheyla Bustamante**, Peruvian living in Belgium. I'm starting a new
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: (Instagram](https://www.instagram.com/milabusta/)
+- 📫 How to reach me: [Instagram](https://www.instagram.com/milabusta)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
